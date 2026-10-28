@@ -1,24 +1,67 @@
-# 💫 About Me:
-<br><br>    I'm currently working on: Exploring advanced Python concepts, solving complex algorithmic problems, and occasionally building practical solutions through freelance projects.<br><br>    I'm looking to collaborate on: Open-source projects, beginner-friendly software development ideas, and innovative tech initiatives.<br><br>    I'm looking for help with: Deepening my practical knowledge in Robotics, embedded systems, and advanced software architecture.<br><br>    I'm currently learning: Expanding my core Computer Science foundations at Leading University (6th Semester), diving deeper into Python, and exploring the fascinating world of Robotics.<br><br>    Ask me about: Python, university life at Leading University, juggling studies with tutoring and freelancing, or anything tech-related!<br><br>    Fun fact: I love connecting with people—whether it’s explaining a complex programming logic to a student during tutoring or brainstorming new ideas, I’m always up for a good chat!<br><br>🚀 A Little More About Me<br><br>Hi there! I'm Joy, a passionate Computer Science and Engineering undergraduate at Leading University currently in my 6th semester. Technology has always fascinated me, but what I love the most is how lines of code can actually solve real-world problems.<br><br>    Coding & Tech Stack: Among all the programming languages I've explored, Python stands out as my absolute favorite due to its versatility and clean syntax. Apart from my coursework, I love working with various tools and expanding my technical horizon.<br><br>    Beyond the Classroom: Life for me isn't just about university lectures. I keep myself busy and active by managing tuitions, taking up freelance gigs, and keeping a light involvement in a few campus clubs. It helps me stay organized, manage time efficiently, and constantly learn from people around me.<br><br>    Personality & Interests: I consider myself a very friendly, open-minded, and extroverted person who loves making new connections. Whenever I get free time, you'll either find me geeking out over new tech trends, dreaming about building cool Robotics projects, or simply hanging out with peers.<br><br>Let's connect, build things together, and grow as a community! 🌟
+<h1 align="center">Hi 👋, I'm Joy Chakrabarty</h1>
+<h3 align="center">Computer Science Student & Aspiring Developer</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Joy© B) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/joy.chakrabarty.925793) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joy.cb_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joy-chakrabarty-4890163b0) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@joycb1337) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyjot8@gmail.com) 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=JoyCB-ai &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=JoyCB-ai &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=JoyCB-ai &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JoyCB-ai &theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://komarev.com/ghpc/?username=JoyCB-ai&color=007ec6&style=flat-square&label=Profile+Views" alt="Visitor Count" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=JoyCB-ai &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me:
+
+* **Current Focus:** Exploring core Computer Science concepts, deepening my knowledge in Python, and building practical solutions.
+* **What I Do:** Juggling university academics with tutoring, freelance projects, and continuous learning.
+* **Interests:** Fascinated by software development, problem-solving, and expanding into Robotics.
+* **Ask Me About:** Python, coding, or tech-related discussions!
+* **Fun Fact:** I love connecting with people and brainstorming new ideas.
+
+---
+
+### 🚀 A Little More About Me
+
+Hi there! I'm **Joy**, a Computer Science and Engineering undergraduate from Bangladesh. Technology has always fascinated me, especially how logic and lines of code can solve real-world problems. 
+
+* **Coding & Tech Stack:** Among all the programming languages I've explored, **Python** stands out as my favorite due to its clean syntax and versatility. 
+* **Beyond the Classroom:** I keep myself active by managing tuitions, taking up freelance gigs, and engaging with tech communities. It helps me stay disciplined and constantly learn from my surroundings.
+* **Personality:** I consider myself a friendly, open-minded, and approachable person who enjoys collaborating and building meaningful things.
+
+---
+
+### 💻 Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,cpp,java,mysql,git,github,vscode,arduino" alt="Tech Stack" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=JoyCB-ai&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JoyCB-ai&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JoyCB-ai&theme=github_dark&hide_border=false" width="100%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoyCB-ai&theme=gitdark&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote:
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
+</p>
+
+---
+
+<p align="center">Let's connect and build something amazing together! 🌟</p>
